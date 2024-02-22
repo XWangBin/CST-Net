@@ -1,3 +1,3 @@
 # CST-Net
 
-The code will be made public after the article is received,
+The code will be released after the article received
