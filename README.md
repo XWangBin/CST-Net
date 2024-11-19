@@ -14,7 +14,7 @@ Magnetic Resonance Imaging (MRI) plays a pivotal role in modern clinical practic
 ![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result4.png) 
 
 # Datasets
-[`dataset download`](https://github.com/yhao-z/T2LR-Net)
+[`dataset download, model train from here`](https://github.com/yhao-z/T2LR-Net)
 
 # Note
 For any questions, feel free to email me at wangb@nim.ac.cn.  
