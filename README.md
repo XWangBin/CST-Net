@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0a736fdd-6423-4777-b71c-11f8bcee9e29)<img align="right" src="https://ars.els-cdn.com/content/image/X00104825.jpg" width="290" height="350"/>  
+<img align="right" src="https://ars.els-cdn.com/content/image/X00104825.jpg" width="290" height="350"/>  
 
 # CRNN-Refined Spatiotemporal Transformer for Dynamic MRI Reconstruction  
 
