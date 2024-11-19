@@ -8,10 +8,10 @@ Magnetic Resonance Imaging (MRI) plays a pivotal role in modern clinical practic
 # Flowchart
 ![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/CST-Net.png)  
 # Result presentation
-![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result1.png) <img awidth="500" height="200"/> 
-![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result2.png) <img awidth="500" height="200"/> 
-![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result3.png) <img awidth="500" height="150"/> 
-![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result4.png) <img awidth="500" height="150"/> 
+![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result1.png) 
+![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result2.png) 
+![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result3.png) 
+![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result4.png) 
 
 # Datasets
 [`dataset download`](https://github.com/yhao-z/T2LR-Net)
