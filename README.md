@@ -1,4 +1,4 @@
-<img align="right" src="https://ars.els-cdn.com/content/image/X00104825.jpg" width="290" height="350"/>  
+![image](https://github.com/user-attachments/assets/0a736fdd-6423-4777-b71c-11f8bcee9e29)<img align="right" src="https://ars.els-cdn.com/content/image/X00104825.jpg" width="290" height="350"/>  
 
 # CRNN-Refined Spatiotemporal Transformer for Dynamic MRI Reconstruction  
 
@@ -8,13 +8,13 @@ Magnetic Resonance Imaging (MRI) plays a pivotal role in modern clinical practic
 # Flowchart
 ![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/CST-Net.png)  
 # Result presentation
-![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result1.png)  
-![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result2.png)  
-![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result3.png)  
-![Performance](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result4.png)  
+![image](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result1.png)  
+![image](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result2.png)  
+![image](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result3.png)  
+![image](https://github.com/XWangBin/CST-Net/blob/main/IMGs/result4.png) 
 
 # Datasets
-[`dataset download`](https://github.com/yhao-z)
+[`dataset download`](https://github.com/yhao-z/T2LR-Net)
 
 # Note
 For any questions, feel free to email me at wangb@nim.ac.cn.  
